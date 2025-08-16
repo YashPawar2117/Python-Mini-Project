@@ -1,3 +1,2 @@
-# Python Basic Operation Project 
-Made a basic operation system for hotel management system.
-Made in class 12 and first year of engineering.
+# Hotel Management Terminal Project: Python
+It is a simple terminal-based project having various functions which helps the hotel management to manage the records with check-in, check-out process and bill generation.
